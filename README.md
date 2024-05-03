@@ -35,7 +35,7 @@ This website showcases a variety of restaurants where you can view the entire li
 4. Once the installation is complete, start the application:
     
     ```bash
-    $ npm run start
+    $ npm run dev
     
     ```
     
