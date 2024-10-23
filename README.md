@@ -16,26 +16,26 @@ This website showcases a variety of restaurants where you can view the entire li
 1. Open your terminal and clone the repository:
     
     ```bash
-    $ git clone <https://github.com/maomao0007/Restaurant-List.git>
+    git clone https://github.com/maomao0007/Restaurant-List.git
     
     ```
 2. Navigate to the project directory：
 
     ```bash
-    $ cd restaurant-list
+    cd restaurant-list
    
     ```
 3. Install the necessary dependencies:
     
     ```bash
-    $ npm install
+    npm install
     
     ```
     
 4. Once the installation is complete, start the application:
     
     ```bash
-    $ npm run dev
+    npm run dev
     
     ```
     
